@@ -1,9 +1,9 @@
 # Excel---Sales-Dashboard-for-a-supermarkets 
 
 
-### 📘 1. Introduction
+# 📘 1. Introduction
 
-# This project focuses on creating a Sales Dashboard using Excel to analyze supermarket sales data.
+### This project focuses on creating a Sales Dashboard using Excel to analyze supermarket sales data.
 It provides clarity on:
 
 - Revenue performance
