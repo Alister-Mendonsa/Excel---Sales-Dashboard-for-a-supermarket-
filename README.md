@@ -1,14 +1,9 @@
 # Excel---Sales-Dashboard-for-a-supermarkets 
-Supermarket_Sales_Dashboard/
-│── data/
-│   └── supermarket_sales.xlsx
-│── dashboard/
-│   └── Sales_Dashboard.xlsx
-│── README.md
 
-📘 1. Introduction
 
-This project focuses on creating a Sales Dashboard using Excel to analyze supermarket sales data.
+### 📘 1. Introduction
+
+# This project focuses on creating a Sales Dashboard using Excel to analyze supermarket sales data.
 It provides clarity on:
 
 - Revenue performance
@@ -23,7 +18,7 @@ It provides clarity on:
 
 The goal is to help management track performance and understand business trends at a glance.
 
-🛠️ 2. Background
+## 🛠️ 2. Background
 
 Supermarkets generate large volumes of transactional data.
 However, without visualization, decision-making becomes difficult.
