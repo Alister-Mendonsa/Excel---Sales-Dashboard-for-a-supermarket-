@@ -18,9 +18,10 @@ It provides clarity on:
 
 The goal is to help management track performance and understand business trends at a glance.
 
-## 🛠️ 2. Background
 
-Supermarkets generate large volumes of transactional data.
+# 🛠️ 2. Background
+
+### Supermarkets generate large volumes of transactional data.
 However, without visualization, decision-making becomes difficult.
 
 This dashboard was created to:
@@ -38,7 +39,7 @@ Identify business improvement opportunities
 The result is a clean and interactive dashboard for strategic planning.
 
 
-🧰 3. Tools Used
+# 🧰 3. Tools Used
 
 | Tool                           | Purpose                                                    |
 | ------------------------------ | ---------------------------------------------------------- |
@@ -50,8 +51,9 @@ The result is a clean and interactive dashboard for strategic planning.
 
 
 
-📈 4. Analysis
-Key analyses performed in building the dashboard:
+# 📈 4. Analysis
+
+### Key analyses performed in building the dashboard:
 
 - Total Sales & Gross Income
 
@@ -79,7 +81,8 @@ The dashboard displays:
 
 - Segmented Filters (Slicers)
 
-📚 5. What You Learned
+
+# 📚 5. What You Learned
 
 ✔️ Data cleaning and preparation in Excel
 ✔️ Using Pivot Tables for summarization
@@ -88,9 +91,10 @@ The dashboard displays:
 ✔️ Analyzing supermarket customer behavior
 ✔️ Presenting business insights using visuals
 
-🔍 6. Insights
 
-Some insights derived from the dashboard:
+# 🔍 6. Insights
+
+### Some insights derived from the dashboard:
 
 - Certain product lines contribute significantly to total sales
 
@@ -106,9 +110,10 @@ Some insights derived from the dashboard:
 
 These insights help supermarkets improve product stocking, promotions, and customer service.
 
-🏁 7. Conclusion
 
-This project demonstrates how Excel can transform raw sales data into a professional and interactive dashboard.
+# 🏁 7. Conclusion
+
+### This project demonstrates how Excel can transform raw sales data into a professional and interactive dashboard.
 It highlights key business insights, trends, and KPIs that support smarter decision-making for supermarket management.
 
 The dashboard not only enhances analytical skills but also showcases strong data visualization and reporting abilities—ideal for business analyst and data analyst roles.
